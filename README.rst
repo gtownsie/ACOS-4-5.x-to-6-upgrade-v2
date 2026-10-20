@@ -111,8 +111,8 @@ Download the ACOS software image. | Download Software Image
 
 The system requirements for ACOS software include the following: 
 
-- For ACOS 6.x releases, the minimum disk space requirement is 8 GB.  
-- For vThunder and Thunder devices, the minimum memory requirement is 8 GB. 
+- For ACOS 6.x releases, the minimum disk space requirement is 128 GB.  
+- For vThunder and Thunder devices, the minimum memory requirement is 16 GB. 
 
 ## System Partitions 
 
